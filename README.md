@@ -3,13 +3,10 @@
 ## Demo
 https://kingapalijewska.github.io/to-do-list/
 ## Description
-This is the page to add new tasks. On the page you can: 
-add new tasks,
-mark as done,
-remove from the list.
+This is my first task List Manager. Page is written  in vanilla js with BEM convention. In this website you can add your task list, mark them after finish them, hide them if you want to see just tasks to do or just remove them.
 ## Technologies
 - HTML
-- CSS (box-sizing, Box Model)
+- CSS 
 - JavaScript
 - BEM convention
 - ES6+
