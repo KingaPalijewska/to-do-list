@@ -15,3 +15,4 @@ This is the page to add new tasks. On the page you can:
 - ES6+
 - Grid
 - Media-queries
+- Git
