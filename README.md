@@ -1,5 +1,5 @@
 # To do list
-![List to do](image/Animation1.gif)
+![List to do](image/Animation2.gif)
 ## Demo
 https://kingapalijewska.github.io/to-do-list/
 ## Description
