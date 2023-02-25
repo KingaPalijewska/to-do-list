@@ -13,3 +13,4 @@ This is my first task List Manager. Page is written  in vanilla js with BEM conv
 - Grid
 - Media-queries
 - Git
+- Flex
